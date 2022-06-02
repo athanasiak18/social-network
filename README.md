@@ -1,1 +1,1 @@
-# social-network
+# The Social Network
